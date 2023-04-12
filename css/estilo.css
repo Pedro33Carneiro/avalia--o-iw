@@ -1,0 +1,19 @@
+body{
+    background-color: aqua;
+}
+header{
+    background-color: yellow;
+    text-align: center;
+}
+.banner{
+    width: 100%;
+}
+.container{
+    background-color: yellow;
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+footer{
+    background-color: yellow;
+}
